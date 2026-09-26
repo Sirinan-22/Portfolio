@@ -1,2 +1,10 @@
 # Portfolio Sirinan
 [ปก](ปก.md)
+[sop](sop.md)
+[profile](profile.md)
+[activity](activity.md)
+[activity2](activity2.md)
+[activity3](activity3.md)
+[activity4](activity4.md)
+[ผลงาน](ผลงาน.md)
+[tankyou](tankyou.md)
